@@ -12,8 +12,8 @@
 #include <driver/gpio.h>
 #include <nvs_flash.h>
 
-#define WIFI_SSID "BLACK"
-#define WIFI_PASSWORD "LORY2022"
+#define WIFI_SSID "g8power"
+#define WIFI_PASSWORD "KKKKKKKK"
 #define MQTT_BROKER_IP "34.229.145.165"
 #define MQTT_BROKER_PORT 1883
 #define MQTT_USERNAME "autohome"
